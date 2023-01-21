@@ -2,8 +2,8 @@
 
 ![ScreenShot](preview/desktop-preview.jpg)
 
-- In this project, I build an e-commerce product page based on [Frontend Mentor](https://www.frontendmentor.io) challenge. The product page would include all the necessary information about the product such as product images, description, pricing, and reviews. The page is visually appealing, easy to navigate and the layout is optimized for conversions to increase the chances of the user making a purchase.
-- The page would have a shopping cart functionality, and an option for the user remove it from the cart. The design is fully responsive, and the website is built using the latest web technologies to ensure that it loads quickly and is easy to use.
+- In this project, I build an e-commerce product page based on [Frontend Mentor](https://www.frontendmentor.io) challenge. The product page includes all the necessary information about the product such as product images, description, pricing, and reviews. The page is visually appealing, easy to navigate and the layout is optimized for conversions to increase the chances of the user making a purchase.
+- The page has a shopping cart functionality, and an option for the user remove it from the cart. The design is fully responsive, and the website is built using the latest web technologies to ensure that it loads quickly and is easy to use.
 
 ## Table of contents
 
