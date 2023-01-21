@@ -1,8 +1,8 @@
 # E-commerce product page
 
-![ScreenShot](preview/desktop-preview)
+![ScreenShot](preview/desktop-preview.jpg)
 
-- In this project, I developed an e-commerce product page based on [Frontend Mentor](https://www.frontendmentor.io) challenge. The product page would include all the necessary information about the product such as product images, description, pricing, and reviews. The page is visually appealing, easy to navigate and the layout is optimized for conversions to increase the chances of the user making a purchase.
+- In this project, I build an e-commerce product page based on [Frontend Mentor](https://www.frontendmentor.io) challenge. The product page would include all the necessary information about the product such as product images, description, pricing, and reviews. The page is visually appealing, easy to navigate and the layout is optimized for conversions to increase the chances of the user making a purchase.
 - The page would have a shopping cart functionality, and an option for the user remove it from the cart. The design is fully responsive, and the website is built using the latest web technologies to ensure that it loads quickly and is easy to use.
 
 ## Table of contents
@@ -33,13 +33,13 @@ Users should be able to:
 
 #### 1. Main page - Desktop
 
-![ScreenShot](preview/desktop-design)
+![ScreenShot](preview/desktop-design.jpg)
 
 Provides an overview of the website's content and purpose, and serves as a starting point for navigating the site.
 
 #### 2. Main page - Mobile
 
-![ScreenShot](preview/mobile-design)
+![ScreenShot](preview/mobile-design.jpg)
 
 Medium for an artist to showcase their work and to share their vision with others. Documenting a specific event or a news story.
 
