@@ -34,13 +34,10 @@ Users should be able to:
 
 ![ScreenShot](preview/desktop-design.jpg)
 
-Provides an overview of the website's content and purpose, and serves as a starting point for navigating the site.
-
 #### 2. Main page - Mobile
 
 ![ScreenShot](preview/mobile-design.jpg)
 
-Medium for an artist to showcase their work and to share their vision with others. Documenting a specific event or a news story.
 
 ### Links
 
