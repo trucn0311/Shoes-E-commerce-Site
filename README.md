@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Demo]([https://ourdreamshoes.netlify.app](https://shoes-e-commerce-site.netlify.app/#))
+- Live Site URL: [Demo](https://shoes-e-commerce-site.netlify.app/#)
 
 ## My process
 
